@@ -234,4 +234,4 @@ fn recursive_batch(proofs: Vec<Proof>) -> Proof { … }
 ---
 
 *Last updated May 3, 2025*
-AAAA
+AAAAA
